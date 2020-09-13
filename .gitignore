@@ -4,12 +4,7 @@
 .editorconfig
 .factorypath
 .gitattributes
-.idea/codeStyles/
-.idea/inspectionProfiles/
-.idea/modifysf.iml
-.idea/modules.xml
-.idea/typescript-compiler.xml
-.idea/workspace.xml
+.idea/
 .mvn/
 .project
 .settings/
@@ -18,8 +13,6 @@ mvnw.cmd
 node/
 node_modules/
 package-lock.json
-src/main/webapp/assets/sf/manifest.json
-src/main/webapp/assets/sumfox-logo-167x33-Copy.png
 target/
 yarn.lock
 /.idea/jsLibraryMappings.xml
@@ -27,12 +20,8 @@ yarn.lock
 /.vscode/settings.json
 /out/production/main/com/eclinso/sumfox/config/MethodSecurityConfiguration.txt
 /src/main/main.iml
-/.idea/misc.xml
-/.idea/libraries
 .idea
 libraries
 pom.xml
 job4j_elementary.iml
-README.md
-target
 src
